@@ -9,6 +9,4 @@
     <li><strong>Close Modal:</strong> Close the modal window by clicking the close button, clicking outside the modal (on the overlay), or pressing the "Escape" key.</li>
     <li><strong>Overlay Support:</strong> An overlay is displayed behind the modal to focus user attention.</li>
   </ul>
-  <h2>Installation</h2>
-  <p>Clone the repository or download the source code.</p>
-  <pre><code>git clone https://github.com/yourusername/modal-master.git</code></pre>
+ 

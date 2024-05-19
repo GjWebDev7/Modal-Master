@@ -9,4 +9,9 @@
     <li><strong>Close Modal:</strong> Close the modal window by clicking the close button, clicking outside the modal (on the overlay), or pressing the "Escape" key.</li>
     <li><strong>Overlay Support:</strong> An overlay is displayed behind the modal to focus user attention.</li>
   </ul>
- 
+  <h2>Deployment</h2>
+  <p>The project has been deployed on both GitHub Pages and Netlify. You can access the live demos using the following links:</p>
+  <ul>
+    <li><a href="https://gjwebdev7.github.io/Modal-Master/">GitHub Pages Deployment</a></li>
+    <li><a href="https://yourprojectname.netlify.app">Netlify Deployment</a></li>
+  </ul>

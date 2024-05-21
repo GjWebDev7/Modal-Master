@@ -7,6 +7,12 @@
     <li><strong>Close Modal:</strong> Close the modal window by clicking the close button, clicking outside the modal (on the overlay), or pressing the "Escape" key.</li>
     <li><strong>Overlay Support:</strong> An overlay is displayed behind the modal to focus user attention.</li>
   </ul>
+   <h2>Technologies Used:</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
   <h2>Getting Started</h2>
     <h3>Installation</h3>
     <ol>

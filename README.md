@@ -1,6 +1,4 @@
 # Modal-Master
- <h1>Modal Master</h1>
-
   <p><strong>Modal Master</strong> is a simple, elegant JavaScript component for creating and managing modal windows. This project showcases the use of basic JavaScript to handle UI elements, providing functionality for opening and closing modal windows using buttons, overlay clicks, and keyboard events.</p>
 
   <h2>Features</h2>

@@ -13,7 +13,7 @@
     <h3>Installation</h3>
     <ol>
         <li>Clone the repository to your local machine:</li>
-        <code>git clone https://github.com/your-username/vanilla-js-modal.git</code>
+        <code>git clone https://github.com/GjWebDev7/Modal-Master.git</code>
         <li>Navigate to the project directory:</li>
         <code>cd vanilla-js-modal</code>
     </ol>

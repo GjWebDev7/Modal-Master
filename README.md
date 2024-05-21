@@ -28,9 +28,4 @@
     <li><a href="https://gjwebdev7.github.io/Modal-Master/">GitHub Pages Deployment</a></li>
     <li><a href="https://modalmaster.netlify.app/">Netlify Deployment</a></li>
   </ul>
-  <h2>Contributing</h2>
-<p>Contributions are welcome! Please feel free to open a pull request or submit an issue if you find any bugs or have suggestions for improvements.</p>
-
-<h2>Contact</h2>
-<p>For any inquiries or feedback, feel free to contact the author at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
 

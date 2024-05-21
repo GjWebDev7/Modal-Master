@@ -15,7 +15,7 @@
         <li>Clone the repository to your local machine:</li>
         <code>git clone https://github.com/GjWebDev7/Modal-Master.git</code>
         <li>Navigate to the project directory:</li>
-        <code>cd vanilla-js-modal</code>
+        <code>cd Modal-Master</code>
     </ol>
     <h3>How to Run</h3>
     <p>To run the project, simply open the <code>index.html</code> file in your preferred web browser.</p>
